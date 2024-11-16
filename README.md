@@ -19,16 +19,14 @@ Data Manipulation: Pandas, NumPy
 Visualization: Matplotlib, Seaborn, Plotly
 Statistical Analysis: SciPy, Statsmodels
 
-📁 Dataset
-The dataset used in this analysis includes:
+📁 Dataset :-The dataset used in this analysis includes:
 
 Sales Data: Product sales, revenue, and profit information during Diwali.
 Customer Data: Age, gender, marital status, location, and professional background.
 Product Information: Categories, pricing, and sales trends.
 Note: Dataset sourced from public repositories or anonymized for privacy.
 
-📈 Key Insights
-From the analysis, it was concluded that:
+📈 Key Insights :-From the analysis, it was concluded that:
 Married women aged 26–35 years from Uttar Pradesh (UP), Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation, are the most likely to buy products from the Food, Clothing, and Electronics categories.
 
 This insight offers businesses a focused strategy for:
@@ -36,7 +34,6 @@ Targeted marketing campaigns.
 Personalization of product promotions.
 Strategic inventory planning for high-demand categories.
 
-📜 Future Scope
-Implement predictive models for sales forecasting.
+📜 Future Scope :-Implement predictive models for sales forecasting.
 Advanced customer segmentation using machine learning algorithms.
 Develop strategies to expand market share in underperforming regions.
